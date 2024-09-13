@@ -14,7 +14,7 @@ class Person {
 }
 public class Info {
     public static void main(String[] args) {
-        Person person = new Person("Your Name", 25); 
+        Person person = new Person("Harish", 19); 
         System.out.println("Name: " + person.getName());
         System.out.println("Age: " + person.getAge());
     }
